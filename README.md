@@ -4,3 +4,4 @@
 ----
 #### Todo:
 - [x] Add page progress indicator
+- [x] Deploy live demo
