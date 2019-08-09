@@ -1,6 +1,6 @@
 # Gatsby Blog Demo
 - Built with Gatsby-Starter 
-- Hosted with netlify
+- Hosted on netlify
 ### Live demo: https://stoic-goldstine-a894bc.netlify.com/
 ----
 #### Todo:
