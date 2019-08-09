@@ -23,6 +23,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-page-progress`,
       options: {
+        excludePaths: ["/"],
         color: `#ff0000`,
       },
     },
